@@ -189,8 +189,9 @@ height:1180px;
 margin-left:140px;
 }
 img{
+	width: 994px;
 	margin-left:1px;
-    margin-top:1px;
+  margin-top:1px;
 }
 div.card {
     margin: 10px;
